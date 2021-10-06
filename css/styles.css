@@ -1,0 +1,15 @@
+h1 {
+    color: rgba(0, 204, 255, 0.383);
+    text-align: center;
+}
+h2 {
+    color: rgba(0, 128, 128, 0.685);    
+    font-style: italic;
+    textalign: center;
+}
+p {
+  font-family: sams-serif
+}
+ul {
+    line-height: 40px
+}
